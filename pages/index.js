@@ -12,6 +12,7 @@ export default function Home() {
             <li><Link href="/"><a>HOME</a></Link></li>
             <li><Link href="/product"><a>PRODUCT</a></Link></li>
             <li><Link href="/product/tech"><a>TECH</a></Link></li>
+            <li><Link href="/css"><a>CSS</a></Link></li>
             <li><Link href="/about"><a>ABOUT</a></Link></li>
           </ul>
         </div>
