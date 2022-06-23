@@ -1,0 +1,11 @@
+//create next js app
+
+npm create-next-app appName
+
+//run
+
+npm run dev
+
+//index.js -- root folder
+
+//for page rendering use <Link href='' />
