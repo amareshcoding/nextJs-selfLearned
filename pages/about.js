@@ -1,7 +1,10 @@
 import Image from "next/image";
+import Head from 'next/head';
+
 export default function About() {
   return (
     <div>
+            <Head><title>about</title> </Head>
       <h1>wellcom to About page</h1>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam debitis

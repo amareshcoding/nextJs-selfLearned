@@ -1,8 +1,10 @@
 import style from '../styles/Css.module.css';
+import Head from 'next/head';
 
 export default function Css(){
      return(
           <div>
+                     <Head><title>css</title> </Head>
                <style jsx>{`
                     .h1tag{
                          color: teal;
